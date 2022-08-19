@@ -19,4 +19,4 @@ Mapbox, Passport.
 
 
 # **View Live App**
-## https://happyfeasts.herokuapp.com/
+## https://happy-feasts.herokuapp.com/
